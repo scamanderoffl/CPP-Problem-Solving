@@ -2,6 +2,8 @@
 
 **Solving a Longest substring with unique characters using sliding window method**
 
+Problem:
+
 Given a string S, find the length of the longest substring without repeating characters.
 
 Input Format:
