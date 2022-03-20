@@ -4,11 +4,11 @@
 
 Problem:
 
-Given a string S, find the length of the longest substring without repeating characters.
+Given a string S, find the length of the longest substring without repeating characters
 
 Input Format:
 
-A single line of input contains string str.
+A single line of input contains string str
 
 Constraints:
 
@@ -16,7 +16,7 @@ Constraints:
 
 Output Format:
 
-Print the length of the longest substring.
+Print the length of the longest substring
 
 Sample Input 0
 
